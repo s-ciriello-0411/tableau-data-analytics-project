@@ -32,18 +32,18 @@ You can explore the live project on
 ## 📜 Steps to Reproduce
 Here’s a quick overview of the steps I followed to create the dashboard:
 
-**Data Preparation & Overview**
+- **Data Preparation & Overview**:
 I explored the dataset to understand its structure and identified key metrics for analysis. This step helped me decide on the visualizations to include.
 
-**Map: Average Metric by Country** 
+- **Map: Average Metric by Country**:
 I created an interactive map to visualize metrics by country. I used a parameter for dynamic metric selection and calculated fields to compute averages.
 
-**Line Chart: Average Metric by Month** 
+- **Line Chart: Average Metric by Month**:
 I designed a line chart to highlight monthly trends. Formatting and axis adjustments were key to ensuring clarity.
 
-**Dual Bar Chart: Metric by Aircraft** 
+- **Dual Bar Chart: Metric by Aircraft**: 
 I built a dual bar chart to compare metrics by aircraft type, leveraging dual axes for a compact yet informative design.
 
-**Dashboard Design** 
+- **Dashboard Design**:
 Finally, I brought all visualizations together into a single dashboard. I focused on creating a clean layout with interactive filters for user-friendly navigation.
 
